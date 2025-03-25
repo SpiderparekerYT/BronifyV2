@@ -58,7 +58,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 215,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_0685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/broncic-dreams.mp3",
   },
   {
@@ -67,7 +67,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 198,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/cavs-to-the-lakers.mp3",
   },
   {
@@ -76,8 +76,8 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 205,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
-    audioUrl: "/assets/audio/bron-and-jerry/bronfriend.mp3",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
+    audioUrl: "/assets/audio/bron-and-jerry/IMG_P685.jpeg",
   },
   {
     id: "45",
@@ -85,7 +85,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 187,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/die-for-lebron.mp3",
   },
   {
@@ -94,7 +94,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 210,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/daybron.mp3",
   },
   {
@@ -103,7 +103,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 195,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/i-kissed-lebron.mp3",
   },
   {
@@ -112,7 +112,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 210,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/dont-play-with-lebron.mp3",
   },
   {
@@ -121,7 +121,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 187,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/glazin-lebron.mp3",
   },
   {
@@ -130,7 +130,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 203,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/towards-the-bron.mp3",
   },
   {
@@ -139,7 +139,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 192,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/lenade.mp3",
   },
   {
@@ -148,7 +148,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 215,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/superteams.mp3",
   },
   {
@@ -157,7 +157,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 198,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/mary-j-bron.mp3",
   },
   {
@@ -166,7 +166,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 183,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/yabadabadoo-old-navy.mp3",
   },
   {
@@ -175,7 +175,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 207,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/ring-for-my-king.mp3",
   },
   {
@@ -184,7 +184,7 @@ export const tracks: Track[] = [
     artist: "LeBron James",
     album: "Bron and Jerry",
     duration: 190,
-    coverUrl: "/assets/album-covers/bron-and-jerry.jpg",
+    coverUrl: "/assets/album-covers/bron-and-jerry/IMG_P685.jpeg",
     audioUrl: "/assets/audio/bron-and-jerry/thinking-bout-lebron.mp3",
   },
   {
